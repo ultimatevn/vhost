@@ -1,0 +1,11 @@
+# Title: hosts
+# Last modified: 20 Mar 2019
+#
+# =====================================================
+
+# BEGIN hosts ---
+# --- Group block ---
+#[google]
+0.0.0.0 c.eclick.vn
+0.0.0.0 go.polyad.net
+0.0.0.0 sun.win
